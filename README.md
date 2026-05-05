@@ -34,7 +34,8 @@ We aim to:
 - Categories:
   - 🟢 **0–30 (Safe)** → Direct login  
   - 🟡 **31–70 (Warning)** → OTP verification  
-  - 🔴 **71–100 (Critical)** → Block + Alert  
+  - 🔴 **71–100 (Critical)** → Block + Alert
+  - 
 
 ### 🌍 Geolocation Tracking
 - Detect login location using IP
