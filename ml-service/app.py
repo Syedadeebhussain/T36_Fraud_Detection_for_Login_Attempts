@@ -6,6 +6,7 @@ import numpy as np
 
 app = FastAPI()
 
+# Simple pre-trained model mock for demo
 # In a real app, you would load a serialized model
 model = IsolationForest(contamination=0.1, random_state=42)
 # Initialize with some dummy data to avoid errors
