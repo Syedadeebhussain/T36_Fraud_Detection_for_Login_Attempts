@@ -1,0 +1,9 @@
+# Compiled classes - never push these
+target/
+
+# IDE files
+.idea/
+*.iml
+
+# Sensitive config (optional - if you have DB passwords etc.)
+# src/main/resources/application.properties

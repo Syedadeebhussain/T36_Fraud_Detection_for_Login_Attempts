@@ -157,3 +157,18 @@ spring.mail.password=your-app-password
 ```
 
 > Use an **App Password** for Gmail (not your regular password).
+
+---
+
+## 🤝 Contributors
+
+- Adeeb (Team Lead)
+- Ishu
+- Achintya
+- Kirti
+
+---
+
+## 📜 License
+
+This project is for hackathon/demo purposes.
